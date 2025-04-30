@@ -5,7 +5,7 @@ package org.example;
 
 public class AppAll {
     public String getGreeting() {
-        return "AppAll";
+        return override1();
     }
 
 	private String getName() {
