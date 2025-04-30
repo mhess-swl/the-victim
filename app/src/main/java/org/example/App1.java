@@ -5,8 +5,12 @@ package org.example;
 
 public class App1 {
     public String getGreeting() {
-        return "App1";
+        return getName();
     }
+
+	private String getName() {
+		return "App1";
+	}
 
     public static void main(String[] args) {
         System.out.println(new App1().getGreeting());
