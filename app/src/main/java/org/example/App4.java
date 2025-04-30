@@ -3,12 +3,12 @@
  */
 package org.example;
 
-public class App {
+public class App4 {
     public String getGreeting() {
         return "App4";
     }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        System.out.println(new App4().getGreeting());
     }
 }

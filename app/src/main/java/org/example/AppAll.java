@@ -3,12 +3,20 @@
  */
 package org.example;
 
-public class App {
+public class AppAll {
     public String getGreeting() {
         return "AppAll";
     }
 
+	private String getName() {
+		return "AppAll";
+	}
+
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        System.out.println(new AppAll().getGreeting());
     }
+
+	private String override1() {
+		return getName() + "-override1";
+	}
 }
