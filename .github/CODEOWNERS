@@ -1,0 +1,6 @@
+# Define code ownership for specific files
+/app/src/main/java/org/example/App1.java @mhess-swl
+/app/src/main/java/org/example/App2.java @poulok
+/app/src/main/java/org/example/App3.java @netopyr
+/app/src/main/java/org/example/App4.java @jeffrey-morgan34
+/app/src/main/java/org/example/AppAll.java @mhess-swl @poulok @netopyr @jeffrey-morgan34
