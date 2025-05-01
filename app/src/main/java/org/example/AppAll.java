@@ -5,7 +5,7 @@ package org.example;
 
 public class AppAll {
     public String getGreeting() {
-        return "AppAll";
+        return "We all own this app";
     }
 
 	private String getName() {
