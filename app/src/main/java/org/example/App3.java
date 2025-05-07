@@ -5,7 +5,7 @@ package org.example;
 
 public class App3 {
     public String getGreeting() {
-        return "App3";
+        return "netopyr owns App3";
     }
 
     public static void main(String[] args) {
