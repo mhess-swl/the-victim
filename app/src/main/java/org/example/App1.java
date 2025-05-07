@@ -5,7 +5,7 @@ package org.example;
 
 public class App1 {
     public String getGreeting() {
-        return "mhess-swl thinks he owns App1";
+        return "mhess-swl thinks he owns App1, but he doesn't";
     }
 
     public static void main(String[] args) {
